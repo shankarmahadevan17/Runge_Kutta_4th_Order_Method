@@ -22,7 +22,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"f", "[", 
    RowBox[{"x_", ",", "y_"}], "]"}], ":=", 
-  RowBox[{"x", "+", "y"}]}]], "Input",
+  RowBox[{"x^3", "-", "y^2"}]}]], "Input",
  CellChangeTimes->{{3.8645495206025286`*^9, 3.864549530394346*^9}, {
   3.8645505139061966`*^9, 3.8645505161251783`*^9}},
  CellLabel->"In[45]:=",ExpressionUUID->"2dde195b-1323-4976-90fb-e3d53e808b31"],
